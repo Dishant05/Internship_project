@@ -10,3 +10,5 @@ Corona Virus is one of the troublesome and deadliest virus that we all have face
 Corona Chatbot uses the technology of Azure QnA Maker Service that helps in creation of the knowledge base for this bot. This QnA maker extracts the information from various trusted health sites that it will be using to answer the queries typed by the users. Now the Azure Chatbot Service will be used to publish the bot created using the QnA knowledge base. Through this service, a basic chatbox is created which can answer queries on various platforms such as twitter, etc. 
 
 <h2> Knowledge Base using QnA Maker</h2>
+Here is the screenshot of the Knowledge Base used in this bot. All the queries in this are present in the Covid QnA Excelsheet.
+</br>![plot](https://github.com/Dishant05/Internship_project/blob/main/Screenshot/SS1.png)
