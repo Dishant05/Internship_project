@@ -11,4 +11,6 @@ Corona Chatbot uses the technology of Azure QnA Maker Service that helps in crea
 
 <h2> Knowledge Base using QnA Maker</h2>
 Here is the screenshot of the Knowledge Base used in this bot. All the queries in this are present in the Covid QnA Excelsheet.
-</br>![plot](https://github.com/Dishant05/Internship_project/blob/main/Screenshot/SS1.png)
+![SS1](https://user-images.githubusercontent.com/86092054/179348425-795f4854-08b1-41c3-86d1-cf7d5709a29c.PNG)
+
+
